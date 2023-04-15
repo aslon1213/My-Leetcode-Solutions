@@ -28,7 +28,7 @@ func main() {
 		return
 	}
 	// construct a link
-	link := fmt.Sprintf("https://github.com/aslon1213/My-Leetcode-Solutions/src/solution %d", solutionNumber, solutionNumber)
+	link := fmt.Sprintf("https://github.com/aslon1213/My-Leetcode-Solutions/src/solution%%%d", solutionNumber, solutionNumber)
 	// construct a new line
 	newLine := fmt.Sprintf("| %d | %s |%s |", solutionNumber, "go", link)
 	// write the new line to the readme file
