@@ -28,9 +28,9 @@ func main() {
 		return
 	}
 	// construct a link
-	link := fmt.Sprintf("https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%%20%d\n", solutionNumber)
+	link := fmt.Sprintf("https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%%20%d", solutionNumber)
 	// construct a new line
-	newLine := fmt.Sprintf("| %d | %s |%s |", solutionNumber, "go", link)
+	newLine := fmt.Sprintf("| %d | %s |%s |\n", solutionNumber, "go", link)
 	// write the new line to the readme file
 	f, err := os.OpenFile(filepath.Join(dir, "Readme.md"), os.O_APPEND|os.O_WRONLY, 0644)
 	if err != nil {
