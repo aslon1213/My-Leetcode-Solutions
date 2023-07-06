@@ -43,4 +43,18 @@ func main() {
 		return
 	}
 
+	// create a directory for the new solution
+	newDir := filepath.Join(dir, fmt.Sprintf("src/solution %d", solutionNumber))
+	if err := os.Mkdir(newDir, 0755); err != nil {
+		fmt.Println(err)
+		return
+	}
+	// create a main.go file
+	mainFile, err := os.Create(filepath.Join(newDir, "main.go"))
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+	defer mainFile.Close()
+
 }
