@@ -83,7 +83,6 @@ func main() {
 		solutions_map[num] = solutions[i]
 		b_tree.AddNode(num)
 	}
-	b_tree.String()
 	traversed := b_tree.InOrderTraversal()
 	for i := 0; i < len(traversed); i++ {
 		file_contents[i+4] = solutions_map[traversed[i]]
