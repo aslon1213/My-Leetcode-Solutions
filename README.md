@@ -11,7 +11,8 @@
 | 649     | go       | https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%20649  |
 | 725     | go       | https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%20725  |
 | 1000    | go       | https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%201000 |
-| 1282 | go |https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%201282 |
+| 1282    | go       | https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%201282 |
 | 1416    | go       | https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%201416 |
+| 1647    | go       | https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%201647 |
 | 2024    | go       | https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%202024 |
 | 2218    | go       | https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%202218 |
