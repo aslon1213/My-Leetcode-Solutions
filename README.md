@@ -18,3 +18,5 @@
 | 2024    | go       | https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%202024 |
 | 2218    | go       | https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%202218 |
 | 287287 | go |https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%20287287 |
+| 2311 | go |https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%202311 |
+| 2311 | go |https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%202311 |
