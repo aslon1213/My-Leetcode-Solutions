@@ -22,3 +22,5 @@
 | 2311    | go       | [visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%202311)   |
 | 611     | go       | [visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%20611)    |
 | 612     | go       | [visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%20612)    |
+| 613 | go |[visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%20613) |
+| 613 | go |[visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%20613) |
