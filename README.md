@@ -27,3 +27,14 @@
 | 11 | go |[visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%2011) |
 | 33 | go |[visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%2033) |
 | 34 | go |[visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%2034) |
+| 2048 | go |[visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%202048) |
+| 175 | go |[visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%20175) |
+| 182 | go |[visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%20182) |
+| 181 | go |[visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%20181) |
+| 183 | go |[visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%20183) |
+| 196 | go |[visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%20196) |
+| 411 | go |[visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%20411) |
+| 511 | go |[visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%20511) |
+| 197 | go |[visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%20197) |
+| 1716 | go |[visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%201716) |
+| 3461 | go |[visit](https://github.com/aslon1213/My-Leetcode-Solutions/tree/main/src/solution%203461) |
